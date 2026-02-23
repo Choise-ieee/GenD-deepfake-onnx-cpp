@@ -1,5 +1,5 @@
 # GenD-deepfake-onnx-cpp
-Official implementation for the WACV 2026 paper "Deepfake Detection that Generalizes Across Benchmarks" onnx and cpp version
+Onnx and cpp implementation for the WACV 2026 paper "Deepfake Detection that Generalizes Across Benchmarks" 
 
 The reference paper:Deepfake Detection that Generalizes Across Benchmarks (WACV 2026) [https://github.com/yermandy/GenD]
 
