@@ -13,6 +13,10 @@ According to the guide(chapter "Minimal dependencies" in official repository) in
 According to the export_to_onnx.py, And run it to tranlate to the onnx file(gend.onnx).
 <img width="3096" height="1104" alt="45eb4a610371d20a68e9b7bb1e2ee968" src="https://github.com/user-attachments/assets/7a45517f-5e9b-49bc-b9e9-2076a05a285a" />
 
+The onnx model also can be download as:
+1) gend.onnx: https://drive.google.com/file/d/1SZtRKPxlk-cvN3rLwvYgfEh9I0xDrk4z/view?usp=sharing
+2) det_10g.onnx:in this project file lists.
+
 ## 3.onnx model python evaculation 
 Use the verify_onnx.py to model inference.And we also use detect_image.py(Modified from the original Inference with transformers) to compare inference result.
 And we found the onnx model results almost the same as the author inference ones.
